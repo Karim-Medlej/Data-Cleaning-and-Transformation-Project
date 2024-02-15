@@ -28,6 +28,6 @@ Este proyecto demuestra cómo usar Excel para realizar análisis de datos en una
   - Transformación de datos: Este paso implica remodelar o reorganizar los datos para facilitar su análisis, como crear nuevas variables, agrupar datos o filtrar datos.
   - Creación de dashboard: Este paso implica diseñar y construir un dashboard que resuma y visualice los hallazgos clave del análisis de datos, como gráficos, tablas o mapas.
 
-⚠️ Para un análisis más extenso y profundo, consulte el informe PDF en mi Github.
+⚠️ Para un análisis más extenso y profundo, consulte el informe PDF.
 
 🛠️ Excel (Pivot Tables / Dashoards) fue utilizado en este proyecto.
