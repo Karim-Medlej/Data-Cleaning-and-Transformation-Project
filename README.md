@@ -1,5 +1,6 @@
 # Data cleaning and transformation
 
+
 <h1 align="center">
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/gb.jpg" width="5%" height="5%">
 </h1>
@@ -15,6 +16,7 @@ This project demonstrates how to use Excel to perform data analysis on a bike sa
 ⚠️ For more extensive and in-depth analysis please refer to the report PDF.
 
 🛠️ Excel (Pivot Tables / Dashoards) was used in this project.
+
 
 <h1 align="center">
 <img src="https://github.com/Karim-Medlej/Karim-Medlej/blob/main/esp.jpg" width="5%" height="5%">
